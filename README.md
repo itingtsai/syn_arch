@@ -4,9 +4,10 @@
 [I-Ting Tsai](https://itingtsai.github.io), [Bharath Hariharan](https://www.cs.cornell.edu/~bharathh/)<br>
 Cornell University
 
+## 🚀 Updates
+- Stay tuned!
 
 # Citation
-
 If you find syn_arch useful, please cite:
 ```
 @article{tsai2025syn_arch
